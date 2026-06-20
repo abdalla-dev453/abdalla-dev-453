@@ -44,3 +44,9 @@ I build modern web applications using React, JavaScript, Tailwind CSS, and Pytho
 ###  Connect With Me
 
 - GitHub: https://github.com/abdalla-dev453
+
+- ##  GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=abdalla-dev453&show_icons=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla-dev453&layout=compact)
